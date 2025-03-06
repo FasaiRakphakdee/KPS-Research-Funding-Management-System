@@ -4,7 +4,7 @@ session_start();
 $_SESSION["system"] = "FUNDING";
 $_SESSION["access-user"] = "staff";
 $_SESSION["username"] = "staff";
-$_SESSION["departmentId"] = "K0816";
+$_SESSION["departmentId"] = "K0001";
 $_SESSION["departmentName"] = "ภาควิชาวิศวกรรมคอมพิวเตอร์";
 
 
