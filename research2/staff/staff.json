@@ -1,0 +1,10 @@
+{
+    "ku": "staff",
+    "key": "staff",
+    "staff": {
+        "fullName": "staff",
+        "name": "staff",
+        "role": "staff",
+        "email": "staff@gmail.com"
+    }
+}
